@@ -1,11 +1,11 @@
 <p>Connect with me 👋</p>
-  <a href="https://instagram.com/chyangrhaa" target="_blank">
+  <a href="https://instagram.com/swift" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/cntutorial" target="_blank">
+  <a href="https://youtube.com/channel/UCOAloj1gW4OVGMtVDnNaq5w" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
-<a href="https://wa.me/6285156972228" target="_blank">
+<a href="https://wa.me/6288980870067" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 
@@ -29,11 +29,11 @@
   ### My statistic
 
 <p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=Acuyxzy&theme=tokyonight&show_icons=true" /></a>
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=XyzenzKannaV1&theme=tokyonight&show_icons=true" /></a>
 </p>  
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Acuyxzy&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=XyzenzKannaV1&label=VIEWS&style=flat-square&color=blue" />
 </p>
     
 ------
